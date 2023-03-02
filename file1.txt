@@ -2,5 +2,5 @@ Sử dụng file hoặc code bất kì tái hiện 3 trường hợp các confli
 - conflict giữa remote và local Repository
 -conflict khi merge 2 branch
 - conflict khi rebase 2 branch
-Chụp ảnh lịch sử của repo mỗi conflict là 1 ảnh
+Chụp ảnh lịch sử của repo mỗi conflict là 3 ảnh
 Commit đầu tiên là tên MSSV của sinh viên
